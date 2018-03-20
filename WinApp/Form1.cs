@@ -98,7 +98,7 @@ namespace WinApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Copy1(@"C:\Users\Dilillon\source", @"C:\Users\Dilillon\Desktop\copy");
+            Copy1(@"C:\Users\Dilillon\Documents", @"C:\Users\Dilillon\Desktop\copy");
 
             MessageBox.Show("Done");
 
